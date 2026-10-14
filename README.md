@@ -48,4 +48,9 @@ The application uses four databases:
 - AppointmentsDB
 - PrescriptionsDB
 
+## Demo Video
+
+Watch the video to see how the Hospital Information System works.
+https://lut-my.sharepoint.com/:v:/g/personal/behnaz_alavinezhad_student_lut_fi/IQABJTT6Lo3YTqXBB39EpNNLAaG4wl8sPqsMf1CXaQvimfU?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Y4IYZc
+
 **Note:** The SQL Server databases must be created and configured separately before running the application.
